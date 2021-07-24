@@ -85,12 +85,6 @@
 <loc>http://localhost:4000/README.en/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/bbb/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/assets/lib/fastclick/</loc>
 </url>
 <url>
@@ -98,13 +92,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/aaa.html</loc>
-<lastmod>2021-07-24T21:17:19+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/test.html</loc>
-<lastmod>2021-07-24T21:17:19+08:00</lastmod>
 </url>
 </urlset>
